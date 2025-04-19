@@ -1,6 +1,6 @@
 streamlit-webrtc
 ultralytics
-opencv-python-headless
+opencv-contrib-python
 numpy
 pillow
 matplotlib
